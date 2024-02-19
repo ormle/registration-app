@@ -1,0 +1,57 @@
+[
+    {
+        "_id": "65d0821f8b7200addf75b6f0",
+        "id": 1,
+        "courseName": "CMPT315",
+        "department": "Computer Science",
+        "timeOfDay": "9:00",
+        "maxClassSize": 30,
+        "classSize": 0,
+        "enrolled": [],
+        "__v": 0
+    },
+    {
+        "_id": "65d082488b7200addf75b6f4",
+        "id": 2,
+        "courseName": "MATH209",
+        "department": "Math&Stats",
+        "timeOfDay": "10:00",
+        "maxClassSize": 30,
+        "classSize": 0,
+        "enrolled": [],
+        "__v": 0
+    },
+    {
+        "_id": "65d082578b7200addf75b6f7",
+        "id": 3,
+        "courseName": "ENGL101",
+        "department": "English",
+        "timeOfDay": "9:00",
+        "maxClassSize": 30,
+        "classSize": 0,
+        "enrolled": [],
+        "__v": 0
+    },
+    {
+        "_id": "65d0826b8b7200addf75b6fa",
+        "id": 4,
+        "courseName": "CMPT360",
+        "department": "Computer Science",
+        "timeOfDay": "13:00",
+        "maxClassSize": 30,
+        "classSize": 0,
+        "enrolled": [],
+        "__v": 0
+    },
+    {
+        "_id": "65d2c441ad7cdecb4c8a853c",
+        "id": 5,
+        "courseName": "Independent",
+        "department": "Special",
+        "timeOfDay": "8:00",
+        "maxClassSize": 1,
+        "classSize": 0,
+        "enrolled": [],
+        "__v": 0
+    }
+]

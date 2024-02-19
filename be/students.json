@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "65d082b78b7200addf75b6fe",
+        "id": 1,
+        "name": "John D",
+        "email": "JohnD@gmail.ca",
+        "courses": [],
+        "__v": 0
+    },
+    {
+        "_id": "65d2c391ad7cdecb4c8a83fa",
+        "id": 2,
+        "name": "Romel",
+        "email": "romel@gmail.ca",
+        "courses": [],
+        "__v": 0
+    },
+    {
+        "_id": "65d2c3a5ad7cdecb4c8a83fd",
+        "id": 3,
+        "name": "Car",
+        "email": "car@hotmail.ca",
+        "courses": [],
+        "__v": 0
+    }
+]

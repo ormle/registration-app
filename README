@@ -1,0 +1,13 @@
+# Course Registration App
+## Run Instructions:
+
+In be run in terminal:
+    `npm i`
+    `npm run loaddb`
+    `npm start`
+
+In fe run in terminal:
+    `npm i`
+    `npm start`
+
+ensure you have [mongoose](https://mongoosejs.com/docs/) setup
